@@ -18,11 +18,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h1 align="center">
 
 ![IMG_20211109_180731](https://user-images.githubusercontent.com/76813856/140913530-f5ab9009-e202-4e61-9b9a-1a04cf4e0c08.JPG)
-
-
 <h1 align="center">
-Tanks to Allah
-</h1>
-</div>
+Tanks to Allah :pray:
+
+
